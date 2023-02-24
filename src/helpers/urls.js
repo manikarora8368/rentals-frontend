@@ -1,5 +1,4 @@
-// const API_ROOT = "https://rentals-backend-app.herokuapp.com";
-const API_ROOT = "http://localhost:3000";
+const API_ROOT = "https://rentals-backend.onrender.com";
 
 export const APIUrls = {
   login: () => `${API_ROOT}/auth/login`,
